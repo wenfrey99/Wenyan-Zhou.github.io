@@ -25,7 +25,7 @@ organizations:
     url: https://www.ncst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, NLP and Knowledge map.
 
 # Interests to show in About widget
 interests:
@@ -89,12 +89,12 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: youtube
-    icon_pack: fas
-    link: https://www.youtube.com/@wenfrey
-  - icon: envelope
-    icon_pack: fab
-    link: '/#contact'
+  # - icon: youtube
+  #   icon_pack: fab
+  #   link: https://www.youtube.com/@wenfrey
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   - icon: github
     icon_pack: fab
     link: https://github.com/wenfrey99
