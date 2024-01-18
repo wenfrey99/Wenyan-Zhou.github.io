@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 周文艳
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhou Wenyan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wenyan
+last_name: Zhou
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Computer Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: North China University of Technology
+    url: https://www.ncst.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning
+  - Natural language processing (NLP)
+  - Knowledge map
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Computer Technology
+      institution: North China University of Science and Technology
+      year: 2024
+    - course: Bachelor of Management
+      institution: Shandong Management University
+      year: 2022
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +51,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -63,7 +61,7 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -91,21 +89,15 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: youtube
+    icon_pack: fas
+    link: https://www.youtube.com/@wenfrey
   - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/wenfrey99
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
