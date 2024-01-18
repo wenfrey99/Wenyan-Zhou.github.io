@@ -242,7 +242,7 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: No.21 Bohai Avenue
-        city: Tangshan City,Hebei Province
+        city: Tangshan City, Hebei Province
         # region: 
         postcode: '063210'
         country: China
