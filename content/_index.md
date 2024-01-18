@@ -239,7 +239,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: zzwy990@163.com
       phone: 151 6518 3307
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: No.21 Bohai Avenue
         city: Tangshan City, Hebei Province
