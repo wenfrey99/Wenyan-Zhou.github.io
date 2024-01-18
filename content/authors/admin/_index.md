@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wenyan Zhou is a current master's student at the School of Artificial Intelligence, North China University of Science and Technology. Her research interests include deep learning, natural language processing and knowledge graph. Currently, her main research interest is the application of named entity recognition techniques in the field of Chinese medical text.
 {style="text-align: justify;"}
